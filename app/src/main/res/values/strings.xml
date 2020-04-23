@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyDictionary</string>
+
+    <string name="edit_text_string">search your word</string>
+    <string name="button_text">find</string>
+    <string name="todo">TODO</string>
+    <string name="search">Search</string>
+    <string name="enter_your_search_here">Enter your search here</string>
+    <string name="definition_textview_placeholder">Definition TextView Placeholder</string>
+    <string name="parsing_error">Error Parsing Response</string>
+    <string name="search_word_placeholder">Search Word</string>
+</resources>
